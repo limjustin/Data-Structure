@@ -35,7 +35,7 @@
 
 #### "시간 복잡도는 매우 큰 입력에 대해서 측정한다."
 
-![image-20200614014051117](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200614014051117.png)
+![function_fg](https://user-images.githubusercontent.com/55044278/84584809-e1a5c200-ae43-11ea-83c2-6a45f55aea95.PNG)
 
 - 동일한 입력의 크기(n)를 처리할 때, g(n)은 f(n)보다 **더 많은 시간을 요구함**
 - 따라서 g(n)은 f(n)보다 **성능이 나쁨**
