@@ -50,7 +50,7 @@
 
 ### Big-O 표기법
 
-![image-20200614130411235](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200614130411235.png)
+![big-o-notation](https://user-images.githubusercontent.com/55044278/84584791-b622d780-ae43-11ea-9ac8-c8d23e917b71.PNG)
 
 - f(n) = O(g(n))의 의미
   - f(n)은 g(n)보다 빠르다
