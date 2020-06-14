@@ -160,4 +160,4 @@
 
 #### 배열에서의 시간 복잡도 정리
 
-![image-20200614192108395](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200614192108395.png)
+![timecomplexityinarray](https://user-images.githubusercontent.com/55044278/84590793-745e5500-ae74-11ea-9704-a7be9c1c3d12.PNG)
