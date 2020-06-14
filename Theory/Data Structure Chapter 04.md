@@ -10,7 +10,7 @@
 
   cf) 배열과 연결 리스트의 비교
 
-  ![image-20200614213847887](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200614213847887.png)
+  ![array vs linkedlist](https://user-images.githubusercontent.com/55044278/84598711-ac32c000-aea7-11ea-896b-25a56d867b45.PNG)
 
 - **node = data + link**
 
