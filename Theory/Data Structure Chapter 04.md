@@ -217,4 +217,4 @@ class node {
 
 - **시간 복잡도**
 
-  ![image-20200615012329640](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200615012329640.png)
+  ![timecomplexity in linked list](https://user-images.githubusercontent.com/55044278/84598700-91604b80-aea7-11ea-92aa-dc7515e716ba.PNG)
