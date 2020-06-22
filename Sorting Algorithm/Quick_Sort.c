@@ -1,6 +1,5 @@
 #include <stdio.h>
 #define MAX_SIZE 8
-int sorted[8];
 
 void swap(int* a, int* b) {
 	int temp;
