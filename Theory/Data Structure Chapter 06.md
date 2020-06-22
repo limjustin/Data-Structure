@@ -15,7 +15,7 @@
 
 
 
-#### 삽입 정렬 (Insertion Sort)
+### 삽입 정렬 (Insertion Sort)
 
 **개념**
 
@@ -71,7 +71,7 @@
 
 
 
-#### 버블 정렬 (Bubble Sort)
+### 버블 정렬 (Bubble Sort)
 
 **개념**
 
@@ -131,7 +131,7 @@
 
 
 
-#### 선택 정렬 (Selection Sort)
+### 선택 정렬 (Selection Sort)
 
 **개념**
 
@@ -192,7 +192,7 @@
 
 
 
-#### 합병 정렬 (Merge Sort)
+### 합병 정렬 (Merge Sort)
 
 **개념**
 
@@ -275,7 +275,7 @@
 
 
 
-#### 쾌속 정렬 (Quick Sort)
+### 쾌속 정렬 (Quick Sort)
 
 **개념**
 
@@ -336,7 +336,7 @@
 
 
 
-#### 기타 정렬
+### 기타 정렬
 
 - 쉘(Shell) 정렬
   - 배열을 여러 개의 부분 배열로 분할하여 각각 삽입 정렬을 수행
@@ -397,7 +397,7 @@
 
 
 
-#### **정렬의 성능 분석 표**
+### **정렬의 성능 분석 표**
 
 ![sort](https://user-images.githubusercontent.com/55044278/85304534-d22f1480-b4e6-11ea-8529-a2ac2d1762c8.PNG)
 
