@@ -60,7 +60,7 @@
 
   **실행 예**
 
-  ![image-20200622124254532](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200622124254532.png)
+  ![Insertion_Sort](https://user-images.githubusercontent.com/55044278/85304485-c6435280-b4e6-11ea-9a76-524c008cad83.PNG)
 
 **성능 분석**
 
@@ -107,7 +107,7 @@
 
   **실행 예**
 
-  ![image-20200622142335255](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200622142335255.png)
+  ![Bubble_Sort](https://user-images.githubusercontent.com/55044278/85304504-cba09d00-b4e6-11ea-9b7a-b0f649a1f8c4.PNG)
 
 **성능 분석**
 
@@ -164,7 +164,7 @@
 
   **실행 예**
 
-  ![image-20200622144938541](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200622144938541.png)
+  ![Selection_Sort](https://user-images.githubusercontent.com/55044278/85304508-cd6a6080-b4e6-11ea-9023-4513b5e1e4e1.PNG)
 
 **성능 분석**
 
@@ -259,7 +259,7 @@
 
   **실행 예**
 
-  ![image-20200622163416144](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200622163416144.png)
+  ![Merge_Sort](https://user-images.githubusercontent.com/55044278/85304524-d0655100-b4e6-11ea-97a0-8ef1aae4c7ff.PNG)
 
 **성능 분석**
 
@@ -317,7 +317,7 @@
 
   **실행 예**
 
-  ![image-20200622222552161](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200622222552161.png)
+  ![Quick_Sort](https://user-images.githubusercontent.com/55044278/85304517-ce9b8d80-b4e6-11ea-9bf1-e5498e2bcc92.PNG)
 
 **성능 분석**
 
@@ -390,7 +390,7 @@
 
 #### **정렬의 성능 분석 표**
 
-![image-20200622233540841](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200622233540841.png)
+![sort](https://user-images.githubusercontent.com/55044278/85304534-d22f1480-b4e6-11ea-8529-a2ac2d1762c8.PNG)
 
 - 삽입, 선택, 버블 정렬에서 시간 차이가 발생하는 이유
   - **삽입 정렬**은 Swap을 사용하지 않음
