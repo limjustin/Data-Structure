@@ -146,12 +146,12 @@
 
   ```c++
   int select_min(int s, int e, int b[]) {
-      int min_idx = s;
+      int min_idx = s; // 첫 인덱스를 min 값에 넣고 시작
       for(int i = s+1; i <= e; i++) {
           if(b[i] < b[min_idx])
-              min_idx = i;
+              min_idx = i; // 값 대신 인덱스를 저장해야 함
       }
-      return min_idx;
+      return min_idx; // 최종적으로 가장 작은 인덱스를 반환
   }
   
   void selection_sort(int n, int a[]) {
