@@ -70,6 +70,7 @@
 
 
 
+
 #### 버블 정렬 (Bubble Sort)
 
 **개념**
@@ -129,6 +130,7 @@
 
 
 
+
 #### 선택 정렬 (Selection Sort)
 
 **개념**
@@ -174,6 +176,7 @@
 
 
 
+
 #### ※ 분할 정복
 
 - **Divide & Conquer**
@@ -182,9 +185,10 @@
   - **정복(Conquer)** : 부분 집합에서 문제를 해결
   - **결합(Combine)** : 해결된 부분 해를 합쳐서 주어진 집합의 해를 구함
 
-![image-20200622161940937](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200622161940937.png)
+![divideandconquer](https://user-images.githubusercontent.com/55044278/85305455-0bb44f80-b4e8-11ea-9c65-e2bbd254fcee.PNG)
 
 - Divide & Conquer 
+
 
 
 
@@ -269,6 +273,8 @@
 - **결과 : O(n log n)**
 
 
+
+
 #### 쾌속 정렬 (Quick Sort)
 
 **개념**
@@ -329,6 +335,7 @@
 
 
 
+
 #### 기타 정렬
 
 - 쉘(Shell) 정렬
@@ -346,6 +353,7 @@
   - 쓰레드의 슬립을 이용한 정렬
 - 버켓(Bucket) 정렬
   - 전체 데이터를 bucket에 저장한 후, bucket 내부의 데이터를 정렬하고 bucket을 합병하는 정렬
+
 
 
 
@@ -385,6 +393,7 @@
    - 계속 증가하는 데이터에 대해서도 정렬이 가능한가?
    - Insertion Sort, Bubble Sort는 중간에 데이터가 들어와도 정렬 가능
    - Selection Sort는 중간에 데이터가 들어오면 처음부터 다시해야 함
+
 
 
 
