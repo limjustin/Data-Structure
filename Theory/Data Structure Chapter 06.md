@@ -187,8 +187,6 @@
 
 ![divideandconquer](https://user-images.githubusercontent.com/55044278/85305455-0bb44f80-b4e8-11ea-9c65-e2bbd254fcee.PNG)
 
-- Divide & Conquer 
-
 
 
 
