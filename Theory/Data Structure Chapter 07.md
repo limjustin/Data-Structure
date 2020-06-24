@@ -45,15 +45,18 @@
 
 - **i번째 레벨**의 **최대 노드**의 수는 **2^(i-1)** 개
 
-  ![image-20200623133744353](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200623133744353.png)
+  ![ilevelmaximumnode](https://user-images.githubusercontent.com/55044278/85543008-a2058400-b654-11ea-81ee-a8b05d0cb4f4.PNG)
+
 
 - **Depth가 k**인 이진 트리의 **최대 노드**의 수는 **2^k - 1** 개
 
-  ![image-20200623133832154](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200623133832154.png)
+  ![depthkmaximun](https://user-images.githubusercontent.com/55044278/85543032-a6ca3800-b654-11ea-9d77-0784f1d0f544.PNG)
+
 
 - 원소가 있는 이진 트리에 대해서 n0을 leaf node의 수, n2를 degree가 2인 노드의 수라고 하면 **n0 = n2 + 1**이 성립
 
-  ![image-20200623134142600](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200623134142600.png)
+  ![n0isn2plust1](https://user-images.githubusercontent.com/55044278/85543058-ad58af80-b654-11ea-9f2e-6f8efc1a4e19.PNG)
+
 
 
 
@@ -63,7 +66,8 @@
 
    - Depth가 k일 때 2^k - 1 개의 노드를 갖는 이진 트리
 
-     ![image-20200623135357614](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200623135357614.png)
+     ![fullbinarytree](https://user-images.githubusercontent.com/55044278/85543085-b3e72700-b654-11ea-8cc3-c91b87768e9b.PNG)
+
 
 2. **완전 이진 트리 (Complete binary tree)**
 
@@ -71,7 +75,8 @@
 
    - **Depth가 k인 완전 이진 트리**의 노드 수를 n이라고 하면 **A <= n <= B**를 만족할 수 있는 A와 B는 => **A = 2^(k-1) - 1, B = 2^k - 1** (**k-1층과 k층 사이**에 어떤 값이든 가지면 됨)
 
-     ![image-20200623135601553](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200623135601553.png)
+     ![completebinarytree](https://user-images.githubusercontent.com/55044278/85543105-b9447180-b654-11ea-8967-021f5f0b53a7.PNG)
+
 
 
 
@@ -97,7 +102,8 @@
 
      - 순서 : 왼쪽 - > **부모** -> 오른쪽
 
-       ![image-20200623140417118](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200623140417118.png)
+       ![inorder](https://user-images.githubusercontent.com/55044278/85543193-cc574180-b654-11ea-8705-b311f88ffb69.PNG)
+
 
        ```c++
        void inorder(nptr bt) {
@@ -115,7 +121,8 @@
 
      - 순서 : **부모** -> 왼쪽 -> 오른쪽
 
-       ![image-20200623140606788](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200623140606788.png)
+       ![preorder](https://user-images.githubusercontent.com/55044278/85543214-d0835f00-b654-11ea-8f0f-6d7fbc158345.PNG)
+
 
        ```c++
        void preorder(nptr bt) {
@@ -133,7 +140,8 @@
 
      - 순서 : 왼쪽 -> 오른쪽 -> **부모**
 
-       ![image-20200623140736170](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200623140736170.png)
+       ![postorder](https://user-images.githubusercontent.com/55044278/85543223-d24d2280-b654-11ea-975b-ed03d5160e55.PNG)
+
 
        ```c++
        void postorder(nptr bt) {
@@ -437,7 +445,8 @@
 
 - 배열에서 첫 번째 원소부터 번호를 부여
 
-  ![image-20200623180727147](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200623180727147.png)
+  ![heap](https://user-images.githubusercontent.com/55044278/85543273-dd07b780-b654-11ea-937f-fb6e5bf75caa.PNG)
+
 
 - k번째 노드의 부모 노드 : k/2
 - k번째 노드의 왼쪽 child node : 2*k
@@ -557,7 +566,8 @@
 
   **실행 예**
 
-  ![image-20200623212732478](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200623212732478.png)
+  ![Heap_Sort](https://user-images.githubusercontent.com/55044278/85543294-e2fd9880-b654-11ea-87e6-f85e2b0692ed.PNG)
+
 
 - Time complexity of heap sort
   - n times push -> n * O(log n) = **O(n log n)**
